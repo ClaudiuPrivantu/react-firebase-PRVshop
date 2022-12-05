@@ -1,5 +1,6 @@
 import React from 'react';
 import './HeroSection.css';
+//just a comment
 
 function HeroSection() {
   return (
